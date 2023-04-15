@@ -1,0 +1,5 @@
+names:
+- pistol
+nc: 1
+train: C:/Users/PC/Desktop/Project2/dataset/train.txt
+val: C:/Users/PC/Desktop/Project2/dataset/val.txt
